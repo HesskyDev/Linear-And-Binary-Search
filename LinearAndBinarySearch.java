@@ -39,6 +39,7 @@ public class LinearAndBinarySearch {
 		System.out.println("Binary Integer Search");
 		System.out.println("");
 		System.out.println("What int would you like to find: ");
+		
 		int findInt = scan.nextInt();
 		
 		binarySearch(intList, findInt);
